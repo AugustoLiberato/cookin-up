@@ -13,7 +13,7 @@ Você seleciona os ingredientes e tem como resultado as receitas possiveis com a
 npm install
 ```
 
-### Execuda vite
+### Execudar vite
 
 ```sh
 npm run dev
