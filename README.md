@@ -4,6 +4,9 @@
 
 Feito com framework javascritp VUE 3
 
+## Sobre
+Você seleciona os ingredientes e tem como resultado as receitas possiveis com aqueles ingredientes
+
 ## Baixar dependências
 
 ```sh
