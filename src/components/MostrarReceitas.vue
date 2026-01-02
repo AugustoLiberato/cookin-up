@@ -1,7 +1,7 @@
 <script lang="ts">
 import type { PropType } from 'vue';
-import type IReceita from '@/interfaces/IReceita.ts';
-import { obterReceitas }  from '@/http/index.ts';
+import type IReceita from '@/interfaces/IReceita';
+import { obterReceitas }  from '@/http/index';
 import BotaoPrincipal from './BotaoPrincipal.vue';
 import CardCategoria from './CardCategoria.vue';
 import CardReceita from './CardReceita.vue';
